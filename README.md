@@ -5,7 +5,7 @@
 </div>
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoAmorimDeSousa&hide=contribs,issues,stars&count_private=true&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beacesconetto&hide=contribs,issues,stars&count_private=true&show_icons=true&theme=radical" />
 </div>
   
 <div style="display: inline_block"><br>
